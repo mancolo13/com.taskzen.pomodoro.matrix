@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.taskzen.pomodoro.matrix
 
 import io.flutter.embedding.android.FlutterActivity
 
